@@ -18,7 +18,7 @@ Windows/Linux
 ### Instructions and Prerequisites:   
 To run this game:  
 * Make sure you have Python installed alongwith pygame (http://www.pygame.org/) library
-* Run PyGalaxian.py
+* Run main.py
 
 ##### Controls:
 * Move your spaceship by pressing LEFT, RIGHT and UP key
